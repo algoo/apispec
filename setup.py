@@ -35,14 +35,14 @@ def read(fname):
 
 
 setup(
-    name='apispec',
+    name='hapic_apispec',
     version='0.35.0-algoo',
     description='A pluggable API specification generator. Currently supports the '
                 'OpenAPI specification (f.k.a. the Swagger specification).',
     long_description=read('README.rst'),
     author='Steven Loria, Josh Carp',
     author_email='sloria1@gmail.com',
-    url='https://github.com/marshmallow-code/apispec',
+    url='https://github.com/algoo/apispec',
     packages=find_packages(exclude=("test*", )),
     package_dir={'apispec': 'apispec'},
     include_package_data=True,
