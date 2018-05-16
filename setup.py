@@ -36,7 +36,7 @@ def read(fname):
 
 setup(
     name='hapic_apispec',
-    version='0.35.0-algoo',
+    version='0.37.0-algoo',
     description='A pluggable API specification generator. Currently supports the '
                 'OpenAPI specification (f.k.a. the Swagger specification).',
     long_description=read('README.rst'),
@@ -55,7 +55,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
-        "Programming Language :: Python :: 2",
+        'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',

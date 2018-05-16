@@ -15,6 +15,10 @@ Friendly fork of apispec waiting for merging `instance support <https://github.c
    :target: https://apispec.readthedocs.io/
    :alt: Documentation
 
+.. image:: https://img.shields.io/badge/marshmallow-3-blue.svg
+    :target: https://marshmallow.readthedocs.io/en/latest/upgrading.html
+    :alt: marshmallow 3 compatible
+
 A pluggable API specification generator. Currently supports the `OpenAPI Specification <https://github.com/OAI/OpenAPI-Specification>`_ (f.k.a. the Swagger specification).
 
 Features
